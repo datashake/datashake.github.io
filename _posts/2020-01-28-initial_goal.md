@@ -1,9 +1,4 @@
-# This is the title
-
-Here's the table of contents:
-
-1. TOC
-{:toc}
+# Data Scientist path
 
 ## Goal
 
